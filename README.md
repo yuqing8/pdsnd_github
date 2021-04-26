@@ -8,7 +8,7 @@ I modified Readme.md on April 26,2021.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project makes use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. It imports the data and answer interesting questions about it by computing descriptive statistics. It also takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
 Include the files used
