@@ -14,5 +14,5 @@ This project makes use of Python to explore data related to bike share systems f
 This project used new_york_city.csv, washington.csv and chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Citation:
+https://knowledge.udacity.com/questions/366542  
