@@ -44,7 +44,7 @@ def get_filters():
         day=input("please enter day of week : ").title()
         
         while day not in ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']:
-            day=input("day of week you entered is invalid. please enter again: ").title()
+            day=input("day of week you entered is invalid. enter again: ").title()
     else:
         day='all'
           
